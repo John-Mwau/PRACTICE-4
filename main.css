@@ -70,8 +70,10 @@ display: inline-flex;
         justify-content: center;
     }
     .content img{
-        margin-top: 10px;
         height:200px;
         width: 500px;
+    }
+    .header-1 ul li{
+        max-width:70px;
     }
 }
