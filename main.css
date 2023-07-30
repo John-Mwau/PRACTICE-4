@@ -54,7 +54,7 @@ display: inline-flex;
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.bottom-1{
+.bottom1{
     background-color: darkgreen;
     align-items: center;
 }
